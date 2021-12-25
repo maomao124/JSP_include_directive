@@ -24,6 +24,7 @@ include 的语法如下：
 </head>
 <body>
 <%@ include file="head.jsp" %>
+<%@include file="txt.txt"%>
 <%="hello"%>
 </body>
 </html>
